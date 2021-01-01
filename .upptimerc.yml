@@ -14,7 +14,7 @@ status-website:
   introTitle: "Uptime monitoring for the **Garage App**"
   navbar:
     - title: Status
-      href: /
+      href: /upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
