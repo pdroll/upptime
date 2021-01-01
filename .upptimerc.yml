@@ -10,9 +10,8 @@ sites:
 status-website:
   baseUrl: /upptime
   logoUrl: https://home.pdroll.com/icon.png
-  name: Garage App Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: Uptime monitoring for the Garage App
+  name: Garage App Status
+  introTitle: "Uptime monitoring for the **Garage App**"
   navbar:
     - title: Status
       href: /
