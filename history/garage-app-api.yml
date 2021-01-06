@@ -1,7 +1,7 @@
-url: $GARAGE_API_URL  
+url: $GARAGE_API_URL
 status: up
 code: 200
-responseTime: 1341
-lastUpdated: 2021-01-05T23:22:04.739Z
+responseTime: 474
+lastUpdated: 2021-01-06T23:23:10.288Z
 startTime: Fri Jan 01 2021 22:00:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
