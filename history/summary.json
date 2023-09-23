@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "95.68%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "71.74%",
+    "uptimeWeek": "86.01%",
     "uptimeMonth": "76.51%",
     "uptimeYear": "90.55%",
-    "time": 1569,
-    "timeDay": 466,
-    "timeWeek": 2775,
-    "timeMonth": 2788,
-    "timeYear": 1746,
+    "time": 1570,
+    "timeDay": 1922,
+    "timeWeek": 2680,
+    "timeMonth": 2816,
+    "timeYear": 1749,
     "dailyMinutesDown": {
       "2023-09-19": 38,
       "2023-09-16": 1425,
@@ -104,8 +104,7 @@
       "2022-10-03": 27,
       "2022-10-02": 807,
       "2022-10-01": 1440,
-      "2022-09-30": 1159,
-      "2022-09-23": 50
+      "2022-09-30": 1159
     }
   }
 ]
