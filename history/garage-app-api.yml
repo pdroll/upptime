@@ -1,7 +1,7 @@
 url: $GARAGE_API_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-09-23T02:56:18.369Z
+status: up
+code: 200
+responseTime: 5328
+lastUpdated: 2025-09-23T03:30:25.012Z
 startTime: 2021-01-01T22:00:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
