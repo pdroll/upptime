@@ -4,18 +4,19 @@
     "url": "$GARAGE_API_URL",
     "icon": "https://home.pdroll.com/icon.png",
     "slug": "garage-app-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "78.12%",
-    "uptimeYear": "97.32%",
-    "time": 3687,
-    "timeDay": 4341,
-    "timeWeek": 4528,
-    "timeMonth": 4044,
-    "timeYear": 3615,
+    "uptimeDay": "95.00%",
+    "uptimeWeek": "98.50%",
+    "uptimeMonth": "77.96%",
+    "uptimeYear": "97.31%",
+    "time": 3689,
+    "timeDay": 5107,
+    "timeWeek": 4650,
+    "timeMonth": 4080,
+    "timeYear": 3618,
     "dailyMinutesDown": {
+      "2025-10-28": 72,
       "2025-10-22": 73,
       "2025-10-21": 6,
       "2025-10-19": 24,
@@ -85,8 +86,7 @@
       "2025-04-25": 49,
       "2025-04-16": 16,
       "2025-04-10": 22,
-      "2025-04-02": 96,
-      "2025-03-19": 26
+      "2025-04-02": 96
     }
   }
 ]
