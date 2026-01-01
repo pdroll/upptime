@@ -6,17 +6,18 @@
     "slug": "garage-app-api",
     "status": "down",
     "uptime": "99.22%",
-    "uptimeDay": "27.34%",
-    "uptimeWeek": "36.10%",
-    "uptimeMonth": "82.43%",
-    "uptimeYear": "96.12%",
-    "time": 3630,
-    "timeDay": 3901,
-    "timeWeek": 4556,
-    "timeMonth": 3961,
-    "timeYear": 3810,
+    "uptimeDay": "18.94%",
+    "uptimeWeek": "33.49%",
+    "uptimeMonth": "81.83%",
+    "uptimeYear": "96.08%",
+    "time": 3636,
+    "timeDay": 4508,
+    "timeWeek": 4169,
+    "timeMonth": 4048,
+    "timeYear": 3821,
     "dailyMinutesDown": {
-      "2025-12-31": 964,
+      "2026-01-01": 110,
+      "2025-12-31": 1117,
       "2025-12-30": 1118,
       "2025-12-29": 1341,
       "2025-12-28": 1145,
@@ -82,8 +83,7 @@
       "2025-07-28": 20,
       "2025-07-26": 35,
       "2025-07-25": 73,
-      "2025-07-17": 64,
-      "2025-07-10": 78
+      "2025-07-17": 64
     }
   }
 ]
